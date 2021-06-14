@@ -1,21 +1,34 @@
 # covid_19 cases and vaccinations
+
 ## Description
+
 ### Application:
+
 It shows total cases, total deaths and total_vaccinations. I also added columns in MySQL by using raw data such as DeathPercentage, TotalDeathCount, etc. and filtered some rows from raw data. I created four sheets in tableau by using modified data which was done earlier and made a dashboard from that sheets.
+
 ### Technologies which are used :
+
 #### Excel
 Excel is an incredibly powerful tool for getting meaning out of vast amounts of data. You put data in your cells and group them in rows and columns. That allows you to add up your data, sort and filter it, put it in tables, and build great-looking charts. L
+
 #### MySQL
+
 MySQL is a relational database management system based on SQL – Structured Query Language. The application is used for a wide range of purposes, including data warehousing, e-commerce, and logging applications. The most common use for mySQL however, is for the purpose of a web database.
+
 #### Tableau
+
 Tableau is the fastest growing data visualization and data analytics tool that aims to help people see and understand data. ... In other words, it simply converts raw data into a very easily understandable format. Data analysis is great, as it is a powerful visualization tool in the business intelligence industry.
+
 ### Challenges:
+
 Some big data take so much time to import data and sometime incomplete data was imported. Forecasting is not happen because of some incomplete data.
 
 ## How to Install MySQL
+
 I hope this step by step process to install Mysql on Windows 10 will help you better.
 
 #### Version Information:
+
 Windows 10 Pro
 Mysql Community Server 8.0.12
 
@@ -86,7 +99,9 @@ Upon execution, you can see the below green coloured ticks on every configuratio
 Click on Finish you got your MySQL on your Windows 10 operating system.
 
 ## How to Install Tableau
+
 Download and Install Tableau Public
+
 Step 1) Go to https://public.tableau.com/en-us/s/download on your web browser. Now you need to enter your email id and click on "DOWNLOAD THE APP" button.
 
 Step 2) This will start downloading the .exe file for Windows by default, and you can see the downloading process in the bottom left corner of the website.
@@ -96,6 +111,7 @@ Step 3) Open the downloaded file. Accept the terms and conditions and click on "
 Step 4) After installation Start Screen of Tableau is shown
 
 Download and Install Tableau Desktop
+
 Step 1) Go to https://www.tableau.com/products/desktop on your web browser.
 
 Step 2) Click on the "TRY NOW" button shown in the top right corner of the website.
