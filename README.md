@@ -1,4 +1,4 @@
-# covid_19 cases and vaccinations
+# Covid19 Cases and Vaccinations Project
 
 ## Description
 
